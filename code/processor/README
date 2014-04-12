@@ -1,0 +1,4 @@
+to clean DBpedia data, convert and index to solr
+use:
+java -jar HelloWorld.jar
+you would see all the help required there.
