@@ -9,7 +9,7 @@
 #|/   \__/(_______/|/     \|(______/ |/     \|(_______/ #
 #########################################################
 |----------------------------------------------------------------------------------|                                                                |
-|Team Members: Rahul Tejwani and Puneet Singh Ludu   |
+|Team Members: [[Rahul Tejwani|https://github.com/rahultejwani]] and [[Puneet Singh Ludu|https://github.com/puneetsl]]   |
 |----------------------------------------------------------------------------------|
 
 1. We have used following DBpedia parsed data from http://wiki.dbpedia.org/Downloads39:
